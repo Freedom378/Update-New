@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "show_after": "2025-05-09",
+  "show_after": "2025-05-08",
   "force_update": true,
   "title": "Update Available",
   "message": "A new version is ready. Please update for best experience.
