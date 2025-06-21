@@ -1,23 +1,11 @@
 {
-  "enabled": true,
-  "show_after": "2025-05-08",
-  "force_update": true,
-  "title": "Update Available",
-  "message": "A new version is ready. Please update for best experience.
-join my Group for more @KINGOFFREEDOMOFC",
-  "link_text": "See details",
-  "link_url": "https://t.me/KINGOFFREEDOMOFC",
-  "buttons": [
-    {
-      "text": "Update Now",
-      "action": "url",
-      "target": "https://t.me/KingOfFreedomGroup",
-      "style": "primary"
-    },
-    {
-      "text": "Later",
-      "action": "dismiss",
-      "style": "secondary"
-    }
-  ]
+  "versionCode": "1341",
+  "versionName": "5.125.0",
+  "downloadLink": "https://t.me/KingOfFreedomGroup",
+  "forceUpdate": true,
+  "Title": "Awesome New Features!",
+  "Msg": "We've listened to your feedback and made some significant improvements:\n\n- Dark Mode support added.\n- Faster loading times.\n- Improved stability and bug fixes.",
+  "updateSize": "30.5 MB",
+  "releaseDate": "2025-06-18",
+  "priority": "high"
 }
